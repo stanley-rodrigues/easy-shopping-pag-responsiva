@@ -4,26 +4,21 @@ projeto para estudo sobre responsividade.
 
 # Adaptação das telas. 
 
-<<<<<<< HEAD
+
 <p aligh="center">
     <img width="600" height="350" src="./assets/mobile.png"/>
+    <img height="350" src="https://github.com/stanley-rodrigues/easy-shopping-pag-responsiva/blob/master/assets/mobile%20(1).png?raw=true" />
     </p>
-=======
 
-    <img src="https://github.com/stanley-rodrigues/easy-shopping-pag-responsiva/blob/master/assets/mobile.png?raw=true" />
     
->>>>>>> cc3a22b630086e41388d0e6920d892cda766ee68
-
-
 
 
 ### Tecnologias utilizadas
 
-O projeto foi feito com essas 3 tecnologias.
+O projeto foi utilizado as seguintes linguagens:
 
 - [x] Html
 - [x] Css
-- [x] ScrollTrigger
 
 ##  desenvolvedor
 
@@ -31,7 +26,7 @@ O projeto foi feito com essas 3 tecnologias.
   <tr>
     <td align="center">
       <a href="https://www.linkedin.com/in/stanley-rodrigues/">
-        <img src="./myphoto/stanley.jpg" width="100px;" alt="Foto de Stanley Rodrigues"/><br>
+        <img src="https://github.com/stanley-rodrigues/easy-shopping-pag-responsiva/blob/master/assets/eu.jpeg?raw=true" width="100px;" alt="Foto de Stanley Rodrigues"/><br>
         <sub>
           <b>Stanley Rodrigues</b>
         </sub>
