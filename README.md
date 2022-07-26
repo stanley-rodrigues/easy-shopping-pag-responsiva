@@ -4,9 +4,15 @@ projeto para estudo sobre responsividade.
 
 # Adaptação das telas. 
 
+<<<<<<< HEAD
 <p aligh="center">
     <img width="600" height="350" src="./assets/mobile.png"/>
     </p>
+=======
+
+    <img src="https://github.com/stanley-rodrigues/easy-shopping-pag-responsiva/blob/master/assets/mobile.png?raw=true" />
+    
+>>>>>>> cc3a22b630086e41388d0e6920d892cda766ee68
 
 
 
